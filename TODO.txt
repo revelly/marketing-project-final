@@ -1,0 +1,5 @@
+# TODO
+1. Define task 
+2. Create a pipeline for ML Project 
+3. Create a service/app
+4. Explore as many algo as possible for classification  
